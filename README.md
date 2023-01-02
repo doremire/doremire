@@ -1,8 +1,12 @@
+
 <br>
+
 <div id="header" align="center">
 <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <img src="icon.gif" width="100" height="100"/>
+  
 <br>
+  
 <div id="badges">
 <a href="https://twitter.com/doremire0">
 <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
