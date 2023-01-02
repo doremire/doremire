@@ -26,7 +26,7 @@ Hi&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremire&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
 </div>
-<img src="https://count.getloli.com/get/@:doremire" alt=":dpremire" />
+<img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":dpremire" />
 </div>
 <!-- **doremire/doremire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
