@@ -1,8 +1,11 @@
+
 <br>
+
 <div id="header" align="center">
-<!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <img src="icon.gif" width="100" height="100"/>
+
 <br>
+
 <div id="badges">
 <a href="https://twitter.com/doremire0">
 <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -18,15 +21,15 @@ Hi&nbsp;
 &nbsp;, I'm Doremire
 </h1>
 <h3>Web Development.</h3>
-<div style="margin-bottom: 3rem">
+<div>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doremire&layout=compact&theme=transparent&hide_border=true&hide=contribs,prs&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=doremire&layout=compact&theme=transparent&hide_border=true&hide=contribs,prs&count_private=true" />
 </a>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremire&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremire&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
 </div>
-<img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":dpremire" />
+    <img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":dpremire" />
 </div>
 <!-- **doremire/doremire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
