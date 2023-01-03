@@ -53,7 +53,7 @@ Hi&nbsp;
     <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=domsnippet&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
 <h3 align="left">DOM Snippet</h3>
-<p align="left">VScode用の自作拡張機能です。</p>
+<p align="left">VScode用の自作拡張機能です。[2023/1/4] 現在保守、更新予定はありません。</p>
 <h1></h1>
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
