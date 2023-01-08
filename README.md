@@ -34,7 +34,7 @@ Hi&nbsp;
 
 <br>
 
-<img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":dpremire" />
+<img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":doremire" />
 </div> <!-- main::center -->
 
 <h2>Repositories</h2>
