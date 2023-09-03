@@ -69,6 +69,38 @@ Hi&nbsp;
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
 
+## 🌴 開発環境
+- Arch Linux
+- WezTerm
+- Neovim
+
+## 🛠️ 使用言語とツール
+
+- **定期的に使用している言語:**
+    - JavaScript
+    - TypeScript
+    - C
+    - PHP
+- **実験的な技術:**
+    - React
+    - Go
+
+- **その他の技術/経験:**
+    - 物理サーバーの運用
+
+## 📚 将来の目標
+- クラウドを利用した開発
+
+
+## 🕵️‍♂️ その他の興味
+
+- Webセキュリティ
+- 低レイヤーの開発
+
+---
+
+立ち寄っていただきありがとうございます！
+
 <h3 align="right"><a href="https://github.com/doremire/">doremire</a>/<a href="https://github.com/doremire/doremire">doremire</a> - プロフィール</h3>
 
 <!-- **doremire/doremire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
