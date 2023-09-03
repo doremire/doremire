@@ -81,6 +81,7 @@ Hi&nbsp;
     - TypeScript
     - C
     - PHP
+    - Bash Script
 - **実験的な技術:**
     - React
     - Go
