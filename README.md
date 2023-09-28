@@ -1,98 +1,94 @@
-
+<div align="center">
 <br>
-
-<div id="header" align="center"> <!-- main -->
+<br>
 <img src="icon.gif" width="100" height="100"/>
-
+<br>
 <br>
 
-<br>
+![Twitter Badge](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)
+![Discord Badge](https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white)
+![GitHub Badge](https://komarev.com/ghpvc/?username=doremire&style=flat&color=blue)
 
-<div id="badges">
-<a href="https://twitter.com/doremire0">
-<img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-<a href="">
-<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
-</a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=doremire&style=flat-square&color=blue" alt=""/>
 <h1>
 Hi&nbsp;
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 &nbsp;, I'm Doremire
 </h1>
 <h3>Web Development.</h3>
-<div> <!-- status -->
+
+<br>
+<br>
+
+<div align="center"> <!-- status -->
 <a href="">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=doremire&layout=compact&theme=transparent&hide_border=true&hide=contribs,prs&count_private=true" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=doremire&layout=compact&theme=transparent&hide_border=true&hide=contribs,prs&count_private=true" />
 </a>
 <a href="">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremire&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremire&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+</a>
+<a href="">
+    <img src="https://github-profile-trophy.vercel.app/?username=doremire&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </a>
 </div> <!-- status -->
 
 <br>
+<br>
 
-<img src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":doremire" />
-</div> <!-- main::center -->
+<img height="110px" src="https://count.getloli.com/get/@:doremire?theme=rule34" alt=":doremire" />
+</div>
 
-<h2>Repositories</h2>
+<br>
+<br>
+
+<h2>🔥 Hot Repositories</h2>
 
 <br>
 
 <div align="center">　<!-- repository::center -->
-<a href="https://github.com/doremire/Portfolio">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=Portfolio&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+<a href="https://github.com/doremire/ArchLinux-DotFiles">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=ArchLinux-DotFiles&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
-<h3 align="left">ポートフォリオ</h3>
-<p align="left">3Dライブラリを使用している為レガシー環境には非対応です。</p>
+<h3 align="left">　</h3>
+<p align="left">　</p>
 <h1></h1>
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
-<a href="https://github.com/doremire/domsnippet">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=domsnippet&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+<a href="https://github.com/doremire/Neovim-Config">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=Neovim-Config&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
-<h3 align="left">DOM Snippet</h3>
-<p align="left">VScode用の自作拡張機能です。[2023/1/4] 現在保守、更新予定はありません。</p>
+<h3 align="left">　</h3>
+<p align="left">　</p>
 <h1></h1>
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
 <div align="center">　<!-- repository::center -->
-<a href="https://github.com/doremire/twitter_style_bbs">
-    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=twitter_style_bbs&layout=compact&theme=transparent&hide_border=true&count_private=true" />
+<a href="https://github.com/doremire/C-CLI-Clock">
+    <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=doremire&repo=C-CLI-Clock&layout=compact&theme=transparent&hide_border=true&count_private=true" />
 </a>
-<h3 align="left">Twitter風の掲示板</h3>
-<p align="left">かなりお気に入りです。</p>
+<h3 align="left">　</h3>
+<p align="left">　</p>
 <h1></h1>
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
 
 ## 🌴 Development environment
+
 - Arch Linux
 - WezTerm
 - Neovim
 
----
-
-### 🔥 Repositories
-
-<!-- Repo Cards here -->
-
----
-
 ### 🛠️ Tech Stack
 
 - **Regularly Used Languages:**
-    - JavaScript
-    - TypeScript
-    - C
-    - PHP
-    - Shell
+  - JavaScript
+  - TypeScript
+  - C
+  - PHP
+  - Shell
 - **Experimental Tech:**
-    - React
-    - Go
+  - React
+  - Go
 
 ### 🌈 Future Goals
 
