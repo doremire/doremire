@@ -69,36 +69,39 @@ Hi&nbsp;
 </div>　<!-- repository::center -->
 <!-- =================================================== -->
 
-## 🌴 開発環境
+## 🌴 Development environment
 - Arch Linux
 - WezTerm
 - Neovim
 
-## 🛠️ 使用言語とツール
+---
 
-- **定期的に使用している言語:**
+### 🔥 Repositories
+
+<!-- Repo Cards here -->
+
+---
+
+### 🛠️ Tech Stack
+
+- **Regularly Used Languages:**
     - JavaScript
     - TypeScript
     - C
     - PHP
-    - Bash Script
-- **実験的な技術:**
+    - Shell
+- **Experimental Tech:**
     - React
     - Go
 
-- **その他の技術/経験:**
-    - 物理サーバーの運用
+### 🌈 Future Goals
 
-## 📚 将来の目標
-- クラウドを利用した開発
+- Cloud-based Development
 
+### 🕵️ Interests
 
-## 🕵️‍♂️ その他の興味
-
-- Webセキュリティ
-- 低レイヤーの開発
-
----
+- Web Security
+- Low-Level Programming
 
 立ち寄っていただきありがとうございます！
 
