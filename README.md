@@ -11,7 +11,7 @@
 
 <h1>
 Hi&nbsp;
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 &nbsp;, I'm Doremire
 </h1>
 <h3>Web Development.</h3>
